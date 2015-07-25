@@ -22,3 +22,5 @@ stacktrace.log
 /wrapper/
 .classpath
 .project
+.gradle/
+build/
